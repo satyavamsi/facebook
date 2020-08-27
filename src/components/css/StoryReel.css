@@ -1,3 +1,5 @@
 .storyReel {
   display: flex;
+  overflow-x: scroll;
+  padding-bottom: 10px;
 }

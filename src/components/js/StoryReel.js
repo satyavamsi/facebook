@@ -25,6 +25,10 @@ function StoryReel() {
                 title="Siva"
                 image="https://scontent.fhyd1-2.fna.fbcdn.net/v/t1.0-9/70706606_3016212745059535_500212038983745536_n.jpg?_nc_cat=103&_nc_sid=ad2b24&_nc_ohc=FoAXa4TZMYUAX9g8Akj&_nc_ht=scontent.fhyd1-2.fna&oh=683c9bc2b97cb3c57fe0addb80c4aa6e&oe=5F6E02D2"
                 profileSrc="https://scontent.fhyd1-2.fna.fbcdn.net/v/t1.0-9/58373469_2124454077673900_6092956316819521536_o.jpg?_nc_cat=109&_nc_sid=09cbfe&_nc_ohc=p43Z1zhwwncAX-I2UNh&_nc_ht=scontent.fhyd1-2.fna&oh=7ca6d3675570bffd22a80c3c4688b63e&oe=5F6BF8D6" />
+            <Story
+                title="Sumanth"
+                image="https://scontent.fhyd1-2.fna.fbcdn.net/v/t31.0-8/17966363_1382367975160883_5362268235699195504_o.jpg?_nc_cat=102&_nc_sid=19026a&_nc_ohc=LSoCPvxgpZUAX_je6Sv&_nc_ht=scontent.fhyd1-2.fna&oh=04f4fa53df71cc04724f791b2102fa6d&oe=5F6E3797"
+                profileSrc="https://scontent.fhyd1-2.fna.fbcdn.net/v/t31.0-8/11850659_1037932832918391_4408123067315140500_o.jpg?_nc_cat=103&_nc_sid=09cbfe&_nc_ohc=EsvRp-ol_LsAX-HMKbi&_nc_ht=scontent.fhyd1-2.fna&oh=e3e970d9f31029be5a083f34d05c9b60&oe=5F6CA27A" />
         </div>
     )
 }
